@@ -1,7 +1,7 @@
-# Task Manager Web App <a href="https://harshraj29.github.io/Task-Manager/">Live</a>
+# Task Manager Web App <a href="https://Vineet1871.github.io/Task-Manager/">Live</a>
 
 Task Manager App
-<img src="https://github.com/harshraj29/Task-Manager/blob/main/Assets/Images/Home.png?raw=true"></img>
+<img src="https://github.com/Vineet1871/Task-Manager/blob/main/Assets/Images/Home.png?raw=true"></img>
 
 This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports search, filter, and sort operations within the task table.
 
@@ -35,7 +35,7 @@ This web application is designed to help you manage your tasks effectively. It's
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/harshraj29/Task-Manager`
+1. Clone the repository: `git clone https://github.com/Vineet1871/Task-Manager`
 2. Navigate to the project directory: `cd Task-Manager`
 
 3. Open `index.html` in your web browser to access the app.
@@ -64,10 +64,10 @@ This web application is designed to help you manage your tasks effectively. It's
 
 ## Screenshots
 
-<img src="https://github.com/harshraj29/Task-Manager/blob/main/Assets/Images/view-task.png?raw=true"></img>
+<img src="https://github.com/Vineet1871/Task-Manager/blob/main/Assets/Images/view-task.png?raw=true"></img>
 *Screenshot: Task List*
 
-<img src="https://github.com/harshraj29/Task-Manager/blob/main/Assets/Images/add-task.png?raw=true"></img>
+<img src="https://github.com/Vineet1871/Task-Manager/blob/main/Assets/Images/add-task.png?raw=true"></img>
 *Screenshot: Add Task*
 
 "# Task-Manager" 
